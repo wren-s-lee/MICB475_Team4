@@ -20,7 +20,17 @@ Qiime2 Processing:
 - primer choice for classifier training
 
 ## Meeting Notes
-
+- TA Proposal Suggestions:
+  - Shorten the title and use an -ing word (e.g. "starting", "exploring", etc.)
+  - Maintain a formal tone with objective language
+  - Engage in frequent peer feedback/editing (e.g. flow/cohesion)
+  - Cite all references clearly and use the metrics on Canvas as a guide
+  - For the hypothesis, clearly state context (RA: it should sound "informed and researched")
+  - Divide research question into distinct parts(?)
 
 ## Next week
+
+## Future Reference
+- Dr. Evelyn Sun will be around for the last 2 meetings to help clarify/troubleshoot
+  - Be prepared for these 2 meetings 
 
